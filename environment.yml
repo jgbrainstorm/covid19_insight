@@ -102,5 +102,5 @@ dependencies:
   - pip:
     - colorlover==0.3.0
     - cufflinks==0.17.3
-prefix: /Users/jhao/anaconda3/envs/covid
+#prefix: /Users/jhao/anaconda3/envs/covid
 
