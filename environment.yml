@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - ipywidgets
   - Ipython
+  - voila
   - pip:
     - colorlover==0.3.0
     - cufflinks==0.17.3
