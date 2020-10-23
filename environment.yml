@@ -4,13 +4,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.7.7
+  - python=3.8.5
   - pandas
   - ipywidgets
   - Ipython
   - voila
+  - scipy
   - pip:
-    - colorlover==0.3.0
-    - cufflinks==0.17.3
+    - colorlover
+    - cufflinks
 #prefix: /Users/jhao/anaconda3/envs/covid
 
